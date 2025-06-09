@@ -1,7 +1,7 @@
  ### Hi there, I'm Wendy 👋  
 
-Painter, Designer & Content Creator  
-Learning Filmmaking & Physics  
+Painter, Designer & Content Creator.
+Currently learning Filmmaking & Physics  
 
 #### Skills  
 • Python  
