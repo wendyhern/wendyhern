@@ -1,4 +1,4 @@
-# Hi, I'm Wendy 👋
+# Hi there, i'm Wendy 👋
 
 Painter, Designer & Content Creator.  
 Currently learning Filmmaking & Physics.  
