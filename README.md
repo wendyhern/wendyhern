@@ -1,15 +1,14 @@
-# Hi there, i'm Wendy 👋
+ ### Hi there, I'm Wendy 👋  
 
-Painter, Designer & Content Creator.  
-Currently learning Filmmaking & Physics.  
+Painter, Designer & Content Creator  
+Learning Filmmaking & Physics  
 
-## Skills  
-- Python  
-- C++  
+#### Skills  
+• Python  
+• C++  
 
-## Contact  
-📧 Email: 7wendyr@gmail.com  
-
+#### Contact  
+📧 7wendyr@gmail.com  
 <!--
 **wendyhern/wendyhern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
